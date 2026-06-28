@@ -1,0 +1,10 @@
+{
+  "name": "via-apartmany",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Web a rezervačný systém pre Via Apartmány Trenčín",
+  "type": "module",
+  "dependencies": {
+    "bysquare": "^2.9.0"
+  }
+}
